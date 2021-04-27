@@ -43,8 +43,8 @@ https://ieeexplore.ieee.org/document/8360943 2018
 Dedicated CI tools such as BAMBOO,3 JENKINS,4 and TEAMCITY5 emerged to provide basic CI functionality; however, these CI tools still require that infrastructure is internally operated and maintained
 
 ### From articles
-**Buddy**
-**GitLab CI**
+**Buddy** Once you create the project, Buddy will add a web hook to your repository that will allow you to trigger deployments on every change to the repository. 
+**GitLab CI** [In GitHub, add a .gitlab-ci.yml to configure GitLab CI/CD.](https://docs.gitlab.com/ee/ci/ci_cd_for_external_repos/github_integration.html)
 **CircleCI**
 **Travis**
 **Jenkins**
