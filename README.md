@@ -43,21 +43,35 @@ https://ieeexplore.ieee.org/document/8360943 2018
 Dedicated CI tools such as BAMBOO,3 JENKINS,4 and TEAMCITY5 emerged to provide basic CI functionality; however, these CI tools still require that infrastructure is internally operated and maintained
 
 ### From articles
-**Buddy** Once you create the project, Buddy will add a web hook to your repository that will allow you to trigger deployments on every change to the repository. 
-**GitLab CI** [In GitHub, add a .gitlab-ci.yml to configure GitLab CI/CD.](https://docs.gitlab.com/ee/ci/ci_cd_for_external_repos/github_integration.html)
-**CircleCI**
-**Travis**
-**Jenkins**
-**Bamboo**
-**Hudson**
-**CruiseControl**
-**TeamCity**
-**CLOUDBEES**
-**Concourse**,
-**XCode Bots**
-**Buildbot**
-**Wercker**
-**appVeyor**
+**Buddy** Possible both through GUI and buddy.yml file [read more](https://buddy.works/docs/yaml/yaml-gui)
+
+**GitLab CI** Through .gitlab-ci.yml [read more](https://docs.gitlab.com/ee/ci/ci_cd_for_external_repos/github_integration.html)
+
+**CircleCI** Through .circleci/config.yml [read more](https://circleci.com/docs/2.0/config-intro/?section=configuration)
+
+**Travis** Through .travis.yml file [read more](https://docs.travis-ci.com/user/tutorial/)
+
+**Jenkins** (Woloxci) config.yml file [read more](https://www.jenkins.io/blog/2018/04/25/configuring-jenkins-pipeline-with-yaml-file/)
+
+**Bamboo** (Belongs to attlassian bitbucket) is possible through a plugin and ant builder or api [read more](https://confluence.atlassian.com/bamboo/github-289277001.html)
+
+**Hudson** Outdated
+
+**CruiseControl** Through config.xml in the root directory [read more](http://cruisecontrol.sourceforge.net/gettingstartedsourcedist.html)
+
+**TeamCity** Through webhook and Github Permissions [read more](oolblue.be/en/product/836037/samsung-galaxy-watch-active2-black-40mm-aluminum.html)
+
+**CLOUDBEES** Through webhook [read more](https://support.cloudbees.com/hc/en-us/articles/224543927-GitHub-Integration-Webhooks)
+
+**Concourse** Through webhook with possiblity to add yaml file to configure jobs [read more](https://concourse-ci.org/install.html)
+
+**XCode Bots** Standalone servers and apple servers configure via schemes [read more](https://developer.apple.com/library/archive/documentation/IDEs/Conceptual/xcode_guide-continuous_integration/ConfigureBots.html#//apple_ref/doc/uid/TP40013292-CH9-SW1)
+
+**Buildbot** Standalone server, Webhook for github, configuration via master.cfg [read more](https://www.digitalocean.com/community/tutorials/how-to-set-up-continuous-integration-with-buildbot-on-ubuntu-16-04)
+
+**Wercker** (Oracle tech) Werker.yml file [read more](https://devcenter.wercker.com/development/wercker-yml/)
+
+**appVeyor** Both UI and appveyor.yml file but mutually exclusive [read more](https://www.appveyor.com/docs/build-configuration/#appveyoryml-and-ui-coexistence)
 
 ### From Websites
 **BiGEval**
