@@ -21,10 +21,13 @@ https://dl.acm.org/doi/abs/10.1145/2786805.2786850
 only **Travis**
 
 https://ieeexplore.ieee.org/abstract/document/9374092 2021
-
+Recently published about CI. Jenkins travis ...
 
 https://ieeexplore.ieee.org/document/8360943 2018
 Dedicated CI tools such as BAMBOO,3 JENKINS,4 and TEAMCITY5 emerged to provide basic CI functionality; however, these CI tools still require that infrastructure is internally operated and maintained
+
+https://www.researchgate.net/publication/346087348_Quality_Maintenance_and_Monitoring_using_Azure_CI_pipeline_and_Net_Technologies
+**Azure CI/CD**
 
 ### From articles
 **Buddy** Possible both through GUI and buddy.yml file [read more](https://buddy.works/docs/yaml/yaml-gui)
@@ -57,7 +60,11 @@ Dedicated CI tools such as BAMBOO,3 JENKINS,4 and TEAMCITY5 emerged to provide b
 
 **appVeyor** Both UI and appveyor.yml file but mutually exclusive [read more](https://www.appveyor.com/docs/build-configuration/#appveyoryml-and-ui-coexistence)
 
+**Azure CI** 
+
 ### From Websites
+**Azure** (Microsoft tech) pipeline configuration can be a Yaml file with any name [read more](https://docs.microsoft.com/en-us/azure/devops/pipelines/create-first-pipeline?view=azure-devops&tabs=java%2Ctfs-2018-2%2Cbrowser)
+
 **BiGEval** Requires license, 
 
 **GoCD** Through Yaml, JSON, Groovy file, UI, API [read more](https://docs.gocd.org/current/configuration/quick_pipeline_setup.html)
