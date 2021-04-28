@@ -75,7 +75,7 @@
 
 **Strider** Standalone server, via webhooks, configuration can be done in the several different ways [read more](https://github.com/dominictarr/rc#standards)
 
-**Autorabit** Via UI [read more](https://docs.autorabit.com/4.7/Getting Started.htm)
+**Autorabit** Via UI [read more](https://docs.autorabit.com/4.7/Getting%20Started.htm#)
 
 **Final builder** Works based on a list of actions, possible to add scripts in an INI file [read more](https://www.finalbuilder.com/downloads/finalbuilder) 
 
