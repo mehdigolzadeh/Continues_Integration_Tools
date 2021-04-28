@@ -1,25 +1,43 @@
 # List of CIs based on publications
 
 
-[paper1](https://ieeexplore.ieee.org/abstract/document/6802994) An abundance of tools are available, from self-hosted systems such as Jenkins, TeamCity, and Bamboo to hosted products like CloudBees and Travis CI. 
+[Continuous Integration and Its Tools](https://ieeexplore.ieee.org/abstract/document/6802994) 
 
-[paper2](https://ieeexplore.ieee.org/abstract/document/7884954) It should be noted that some CI servers (e.g., **Jenkins**, **Bamboo** and **Hudson**) are also able to deploy software to staging or production environment.
+An abundance of tools are available, from self-hosted systems such as Jenkins, TeamCity, and Bamboo to hosted products like CloudBees and Travis CI. 
+
+[Continuous Integration, Delivery and Deployment: A Systematic Review on Approaches, Tools, Challenges and Practices](https://ieeexplore.ieee.org/abstract/document/7884954) 
+
+It should be noted that some CI servers (e.g., **Jenkins**, **Bamboo** and **Hudson**) are also able to deploy software to staging or production environment.
 Bamboo and **CruiseControl** maintained the subsequent positions. 
 used **TeamCity** as CI server in the pipeline and other CI servers have been reported in one paper each.
 
-[paper3](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3655567) -> _FEATURES LISTED_ **Jenkins**, **Teamcity**, **Bamboo**, **Buddy**, **GitLab CI**, **CircleCI**, **Travis**
+[Continuous Integration and Automation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3655567) 
 
-[paper4](https://ieeexplore.ieee.org/abstract/document/8115619) As a practice, CI is seeing broad adoption with the increasing popularity of the GITHUB pull-based development model [9] and the plethora of open-source, GITHUB-compatible, cloud-based CI tools, such as **TRAVIS CI**, **CLOUDBEES**, and **CIRCLECI**.
+_LISTED FEATURES_ for **Jenkins**, **Teamcity**, **Bamboo**, **Buddy**, **GitLab CI**, **CircleCI**, **Travis**
 
-[paper5](https://dl.acm.org/doi/abs/10.1145/3106237.3106270) They all used CI, and a variety of CI systems, including **Concourse**, **Jenkins**, **TravisCI**, **CruiseControl.NET**, **CircleCI**, **TeamCity**, **XCode Bots**, **Buildbot**, **Wercker**, **appVeyor**, and proprietary CI systems.
+[The impact of continuous integration on other software development practices: A large-scale empirical study](https://ieeexplore.ieee.org/abstract/document/8115619) 
 
-[paper6](https://dl.acm.org/doi/abs/10.1145/2786805.2786850) Only **Travis**
+As a practice, CI is seeing broad adoption with the increasing popularity of the GITHUB pull-based development model [9] and the plethora of open-source, GITHUB-compatible, cloud-based CI tools, such as **TRAVIS CI**, **CLOUDBEES**, and **CIRCLECI**.
 
-[paper7](https://ieeexplore.ieee.org/abstract/document/9374092) Recently published(2021) about CI. Jenkins travis ...
+[Trade-offs in continuous integration: assurance, security, and flexibility](https://dl.acm.org/doi/abs/10.1145/3106237.3106270) 
 
-[paper8](https://ieeexplore.ieee.org/document/8360943) Dedicated CI tools such as BAMBOO,3 JENKINS,4 and TEAMCITY5 emerged to provide basic CI functionality; however, these CI tools still require that infrastructure is internally operated and maintained
+They all used CI, and a variety of CI systems, including **Concourse**, **Jenkins**, **TravisCI**, **CruiseControl.NET**, **CircleCI**, **TeamCity**, **XCode Bots**, **Buildbot**, **Wercker**, **appVeyor**, and proprietary CI systems.
 
-[paper9](https://www.researchgate.net/publication/346087348_Quality_Maintenance_and_Monitoring_using_Azure_CI_pipeline_and_Net_Technologies) **Azure CI/CD**
+[Quality and productivity outcomes relating to continuous integration in GitHub](https://dl.acm.org/doi/abs/10.1145/2786805.2786850) 
+
+Only **Travis**
+
+[Uncovering the Benefits and Challenges of Continuous Integration Practices](https://ieeexplore.ieee.org/abstract/document/9374092) 
+
+Recently published(2021) about CI. Jenkins travis ...
+
+[Use and Misuse of Continuous Integration Features: An Empirical Study of Projects That (Mis)Use Travis CI](https://ieeexplore.ieee.org/document/8360943) 
+
+Dedicated CI tools such as BAMBOO,3 JENKINS,4 and TEAMCITY5 emerged to provide basic CI functionality; however, these CI tools still require that infrastructure is internally operated and maintained
+
+[Quality Maintenance and Monitoring using Azure CI pipeline and .Net Technologies](https://www.researchgate.net/publication/346087348_Quality_Maintenance_and_Monitoring_using_Azure_CI_pipeline_and_Net_Technologies) 
+
+**Azure CI/CD**
 
 ## From articles
 **Buddy** Possible both through GUI and buddy.yml file [read more](https://buddy.works/docs/yaml/yaml-gui)
