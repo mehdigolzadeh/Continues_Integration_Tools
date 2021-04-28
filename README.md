@@ -2,8 +2,7 @@
 
 
 [Continuous Integration and Its Tools](https://ieeexplore.ieee.org/abstract/document/6802994) 
-
-An abundance of tools are available, from self-hosted systems such as Jenkins, TeamCity, and Bamboo to hosted products like CloudBees and Travis CI. 
+    An abundance of tools are available, from self-hosted systems such as Jenkins, TeamCity, and Bamboo to hosted products like CloudBees and Travis CI. 
 
 [Continuous Integration, Delivery and Deployment: A Systematic Review on Approaches, Tools, Challenges and Practices](https://ieeexplore.ieee.org/abstract/document/7884954) 
 
