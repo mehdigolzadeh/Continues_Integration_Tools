@@ -29,7 +29,7 @@ Dedicated CI tools such as BAMBOO,3 JENKINS,4 and TEAMCITY5 emerged to provide b
 https://www.researchgate.net/publication/346087348_Quality_Maintenance_and_Monitoring_using_Azure_CI_pipeline_and_Net_Technologies
 **Azure CI/CD**
 
-### From articles
+## From articles
 **Buddy** Possible both through GUI and buddy.yml file [read more](https://buddy.works/docs/yaml/yaml-gui)
 
 **GitLab CI** Through .gitlab-ci.yml [read more](https://docs.gitlab.com/ee/ci/ci_cd_for_external_repos/github_integration.html)
@@ -62,7 +62,7 @@ https://www.researchgate.net/publication/346087348_Quality_Maintenance_and_Monit
 
 **Azure CI** 
 
-### From Websites
+## From Websites
 **Azure** (Microsoft tech) pipeline configuration can be a Yaml file with any name [read more](https://docs.microsoft.com/en-us/azure/devops/pipelines/create-first-pipeline?view=azure-devops&tabs=java%2Ctfs-2018-2%2Cbrowser)
 
 **BiGEval** Requires license, 
