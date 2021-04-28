@@ -52,10 +52,9 @@ used **TeamCity** as CI server in the pipeline and other CI servers have been re
 
 **appVeyor** Both UI and appveyor.yml file but mutually exclusive [read more](https://www.appveyor.com/docs/build-configuration/#appveyoryml-and-ui-coexistence)
 
-**Azure CI** 
+**Azure CI** (Microsoft tech) pipeline configuration can be a Yaml file with any name [read more](https://docs.microsoft.com/en-us/azure/devops/pipelines/create-first-pipeline?view=azure-devops&tabs=java%2Ctfs-2018-2%2Cbrowser)
 
 ## From Websites
-**Azure** (Microsoft tech) pipeline configuration can be a Yaml file with any name [read more](https://docs.microsoft.com/en-us/azure/devops/pipelines/create-first-pipeline?view=azure-devops&tabs=java%2Ctfs-2018-2%2Cbrowser)
 
 **BiGEval** Requires license, 
 
