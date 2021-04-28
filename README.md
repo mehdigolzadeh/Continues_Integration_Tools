@@ -1,19 +1,3 @@
-# Azure
-
-Teamcity
-Jenkinss
-buddy
-bammboo
-
-Jenkins, TeamCity, Buddy, Bamboo, CodeShip
-
-
-
-Look at the paper for CIs
-and list of the CIs
-
-
-
 # List of CIs based on publications
 
 https://ieeexplore.ieee.org/abstract/document/6802994
@@ -61,7 +45,7 @@ Dedicated CI tools such as BAMBOO,3 JENKINS,4 and TEAMCITY5 emerged to provide b
 
 **TeamCity** Through webhook and Github Permissions [read more](oolblue.be/en/product/836037/samsung-galaxy-watch-active2-black-40mm-aluminum.html)
 
-**CLOUDBEES** Through webhook [read more](https://support.cloudbees.com/hc/en-us/articles/224543927-GitHub-Integration-Webhooks)
+**CLOUDBEES** For codeship pro using codeship-steps.yml or json [read more](https://docs.cloudbees.com/docs/cloudbees-codeship/latest/pro-builds-and-configuration/steps)
 
 **Concourse** Through webhook with possiblity to add yaml file to configure jobs [read more](https://concourse-ci.org/install.html)
 
@@ -74,15 +58,24 @@ Dedicated CI tools such as BAMBOO,3 JENKINS,4 and TEAMCITY5 emerged to provide b
 **appVeyor** Both UI and appveyor.yml file but mutually exclusive [read more](https://www.appveyor.com/docs/build-configuration/#appveyoryml-and-ui-coexistence)
 
 ### From Websites
-**BiGEval**
-**GoCD**
-**CODESHIP** -> codeship-services.yml
-**Integrity**
-**Strider**
-**Autorabit**
+**BiGEval** Requires license, 
+
+**GoCD** Through Yaml, JSON, Groovy file, UI, API [read more](https://docs.gocd.org/current/configuration/quick_pipeline_setup.html)
+
+**CODESHIP** -> Belongs to Cloodbees
+
+**Integrity** Using webhook and env variable, didnt find any steps, pipeline file [read more](https://integrity.github.io/)
+
+**Strider** Standalone server, via webhooks, configuration can be done in the several different ways [read more](https://github.com/dominictarr/rc#standards)
+
+**Autorabit** Via UI [read more](https://docs.autorabit.com/4.7/Getting Started.htm)
+
 **Final builder**
+
 **Buildkite**
+
 **Semaphore**
+
 **Bitrise**
+
 **Urbancode**
-****
