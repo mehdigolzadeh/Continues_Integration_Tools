@@ -30,7 +30,7 @@ used **TeamCity** as CI server in the pipeline and other CI servers have been re
 
 **Travis** Through .travis.yml file [read more](https://docs.travis-ci.com/user/tutorial/)
 
-**Jenkins** (Woloxci) config.yml file [read more](https://www.jenkins.io/blog/2018/04/25/configuring-jenkins-pipeline-with-yaml-file/)
+**Jenkins** (Woloxci) config.yml file (or any other name.yml file which is configurable in jenkins) [read more](https://www.jenkins.io/blog/2018/04/25/configuring-jenkins-pipeline-with-yaml-file/)
 
 **Bamboo** (Belongs to attlassian bitbucket) is possible through a plugin and ant builder or api [read more](https://confluence.atlassian.com/bamboo/github-289277001.html)
 
