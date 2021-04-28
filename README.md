@@ -64,18 +64,18 @@ Dedicated CI tools such as BAMBOO,3 JENKINS,4 and TEAMCITY5 emerged to provide b
 
 **CODESHIP** -> Belongs to Cloodbees
 
-**Integrity** Using webhook and env variable, didnt find any steps, pipeline file [read more](https://integrity.github.io/)
+**Integrity** Using webhook and env variable, c
 
 **Strider** Standalone server, via webhooks, configuration can be done in the several different ways [read more](https://github.com/dominictarr/rc#standards)
 
 **Autorabit** Via UI [read more](https://docs.autorabit.com/4.7/Getting Started.htm)
 
-**Final builder**
+**Final builder** Works based on a list of actions, possible to add scripts in an INI file [read more](https://www.finalbuilder.com/downloads/finalbuilder) 
 
-**Buildkite**
+**Buildkite** Pipeline steps are defined in YAML and are either stored in Buildkite or in your repository using a pipeline.yml file [read more](https://buildkite.com/docs/pipelines/defining-steps)
 
-**Semaphore**
+**Semaphore** .semaphore/semaphore.yml [read more](https://docs.semaphoreci.com/guided-tour/creating-your-first-project/)
 
-**Bitrise**
+**Bitrise** bitrise.yml file in the root directory [read more](https://devcenter.bitrise.io/jp/bitrise-cli/basics-of-bitrise-yml/)
 
-**Urbancode**
+**Urbancode** (IBM tech) Integrated devops toolchain for continuous integration/continuous delivery with Jenkins. Uses some yaml files can be anywhere in the repo [read more](https://developer.ibm.com/technologies/continuous-integration/videos/implement-continuous-integration-with-jenkins-on-ibm-cloud-private)
