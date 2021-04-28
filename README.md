@@ -16,24 +16,19 @@
 > As a practice, CI is seeing broad adoption with the increasing popularity of the GITHUB pull-based development model [9] and the plethora of open-source, GITHUB-compatible, cloud-based CI tools, such as **TRAVIS CI**, **CLOUDBEES**, and **CIRCLECI**.
 
 [Trade-offs in continuous integration: assurance, security, and flexibility](https://dl.acm.org/doi/abs/10.1145/3106237.3106270) 
-
-They all used CI, and a variety of CI systems, including **Concourse**, **Jenkins**, **TravisCI**, **CruiseControl.NET**, **CircleCI**, **TeamCity**, **XCode Bots**, **Buildbot**, **Wercker**, **appVeyor**, and proprietary CI systems.
+> They all used CI, and a variety of CI systems, including **Concourse**, **Jenkins**, **TravisCI**, **CruiseControl.NET**, **CircleCI**, **TeamCity**, **XCode Bots**, **Buildbot**, **Wercker**, **appVeyor**, and proprietary CI systems.
 
 [Quality and productivity outcomes relating to continuous integration in GitHub](https://dl.acm.org/doi/abs/10.1145/2786805.2786850) 
-
-Only **Travis**
+> Only **Travis**
 
 [Uncovering the Benefits and Challenges of Continuous Integration Practices](https://ieeexplore.ieee.org/abstract/document/9374092) 
-
-Recently published(2021) about CI. Jenkins travis ...
+> Recently published(2021) about CI. Jenkins travis ...
 
 [Use and Misuse of Continuous Integration Features: An Empirical Study of Projects That (Mis)Use Travis CI](https://ieeexplore.ieee.org/document/8360943) 
-
-Dedicated CI tools such as BAMBOO,3 JENKINS,4 and TEAMCITY5 emerged to provide basic CI functionality; however, these CI tools still require that infrastructure is internally operated and maintained
+> Dedicated CI tools such as BAMBOO,3 JENKINS,4 and TEAMCITY5 emerged to provide basic CI functionality; however, these CI tools still require that infrastructure is internally operated and maintained
 
 [Quality Maintenance and Monitoring using Azure CI pipeline and .Net Technologies](https://www.researchgate.net/publication/346087348_Quality_Maintenance_and_Monitoring_using_Azure_CI_pipeline_and_Net_Technologies) 
-
-**Azure CI/CD**
+> **Azure CI/CD**
 
 ## From articles
 **Buddy** Possible both through GUI and buddy.yml file [read more](https://buddy.works/docs/yaml/yaml-gui)
