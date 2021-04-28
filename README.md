@@ -2,21 +2,18 @@
 
 
 [Continuous Integration and Its Tools](https://ieeexplore.ieee.org/abstract/document/6802994) 
-    An abundance of tools are available, from self-hosted systems such as Jenkins, TeamCity, and Bamboo to hosted products like CloudBees and Travis CI. 
+> An abundance of tools are available, from self-hosted systems such as Jenkins, TeamCity, and Bamboo to hosted products like CloudBees and Travis CI. 
 
 [Continuous Integration, Delivery and Deployment: A Systematic Review on Approaches, Tools, Challenges and Practices](https://ieeexplore.ieee.org/abstract/document/7884954) 
-
-It should be noted that some CI servers (e.g., **Jenkins**, **Bamboo** and **Hudson**) are also able to deploy software to staging or production environment.
-Bamboo and **CruiseControl** maintained the subsequent positions. 
-used **TeamCity** as CI server in the pipeline and other CI servers have been reported in one paper each.
+> It should be noted that some CI servers (e.g., **Jenkins**, **Bamboo** and **Hudson**) are also able to deploy software to staging or production environment.
+> Bamboo and **CruiseControl** maintained the subsequent positions. 
+> used **TeamCity** as CI server in the pipeline and other CI servers have been reported in one paper each.
 
 [Continuous Integration and Automation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3655567) 
-
-_LISTED FEATURES_ for **Jenkins**, **Teamcity**, **Bamboo**, **Buddy**, **GitLab CI**, **CircleCI**, **Travis**
+> _LISTED FEATURES_ for **Jenkins**, **Teamcity**, **Bamboo**, **Buddy**, **GitLab CI**, **CircleCI**, **Travis**
 
 [The impact of continuous integration on other software development practices: A large-scale empirical study](https://ieeexplore.ieee.org/abstract/document/8115619) 
-
-As a practice, CI is seeing broad adoption with the increasing popularity of the GITHUB pull-based development model [9] and the plethora of open-source, GITHUB-compatible, cloud-based CI tools, such as **TRAVIS CI**, **CLOUDBEES**, and **CIRCLECI**.
+> As a practice, CI is seeing broad adoption with the increasing popularity of the GITHUB pull-based development model [9] and the plethora of open-source, GITHUB-compatible, cloud-based CI tools, such as **TRAVIS CI**, **CLOUDBEES**, and **CIRCLECI**.
 
 [Trade-offs in continuous integration: assurance, security, and flexibility](https://dl.acm.org/doi/abs/10.1145/3106237.3106270) 
 
