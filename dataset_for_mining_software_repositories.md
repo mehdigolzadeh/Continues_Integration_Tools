@@ -12,3 +12,7 @@
 **Method 4** _[GHtorrent](https://www.gousios.gr/pub/ghtorrent-dataset-toolsuite.pdf)_
 
 **Method 5** Combine other methods with [TravisTorrent](https://travistorrent.testroots.org/page_access/) dataset.
+
+
+
+Have a look  at libraris.io source code for list of projects-packages (dependencies for repositories)
