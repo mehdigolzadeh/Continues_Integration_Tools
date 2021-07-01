@@ -59,6 +59,8 @@
 
 **Wercker** (Oracle tech) Werker.yml file [read more](https://devcenter.wercker.com/development/wercker-yml/)
 
+**AWS amplify**  (Amazon) amplify.yml file [read more](https://docs.aws.amazon.com/amplify/latest/userguide/build-settings.html)
+
 **appVeyor** Both UI and appveyor.yml file but mutually exclusive [read more](https://www.appveyor.com/docs/build-configuration/#appveyoryml-and-ui-coexistence)
 
 **Azure CI** (Microsoft tech) pipeline configuration can be a Yaml file with any name [read more](https://docs.microsoft.com/en-us/azure/devops/pipelines/create-first-pipeline?view=azure-devops&tabs=java%2Ctfs-2018-2%2Cbrowser)
