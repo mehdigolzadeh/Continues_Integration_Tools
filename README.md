@@ -40,6 +40,7 @@
 **Travis** Through .travis.yml file [read more](https://docs.travis-ci.com/user/tutorial/)
 
 **Jenkins** (Woloxci) config.yml file (or any other name.yml file which is configurable in jenkins) [read more](https://www.jenkins.io/blog/2018/04/25/configuring-jenkins-pipeline-with-yaml-file/)
+For pipeline as code we can look for Jenkinsfile file in the repository [read more](https://www.jenkins.io/doc/book/pipeline-as-code/)
 
 **Bamboo** (Belongs to attlassian bitbucket) is possible through a plugin and ant builder or api [read more](https://confluence.atlassian.com/bamboo/github-289277001.html)
 
