@@ -64,7 +64,7 @@ For pipeline as code we can look for Jenkinsfile file in the repository [read mo
 
 **appVeyor** Both UI and appveyor.yml file but mutually exclusive [read more](https://www.appveyor.com/docs/build-configuration/#appveyoryml-and-ui-coexistence)
 
-**Azure CI** (Microsoft tech) pipeline configuration can be a Yaml file with any name [read more](https://docs.microsoft.com/en-us/azure/devops/pipelines/create-first-pipeline?view=azure-devops&tabs=java%2Ctfs-2018-2%2Cbrowser)
+**Azure CI** (Microsoft tech) pipeline configuration is azure-pipelines.yml [read more](https://docs.microsoft.com/en-us/azure/devops/pipelines/create-first-pipeline?view=azure-devops&tabs=java%2Ctfs-2018-2%2Cbrowser)
 
 ## From Websites
 
