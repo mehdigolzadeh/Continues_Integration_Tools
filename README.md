@@ -48,7 +48,7 @@ For pipeline as code we can look for Jenkinsfile file in the repository [read mo
 
 **CruiseControl** Through config.xml in the root directory [read more](http://cruisecontrol.sourceforge.net/gettingstartedsourcedist.html)
 
-**TeamCity** Through webhook and Github Permissions [read more](oolblue.be/en/product/836037/samsung-galaxy-watch-active2-black-40mm-aluminum.html)
+**TeamCity** Through webhook and Github Permissions [read more](https://blog.jetbrains.com/teamcity/2016/11/kotlin-configuration-scripts-an-introduction/)
 
 **CLOUDBEES** For codeship pro using codeship-steps.yml or json [read more](https://docs.cloudbees.com/docs/cloudbees-codeship/latest/pro-builds-and-configuration/steps)
 
